@@ -26,7 +26,7 @@
 ### :book: Languages
 * 🇬🇧 English - Upper-Intermediate
 * 🇺🇦 Ukrainian - Native Speaker
-* 🇨🇿 Czech - Elementary
+* 🇨🇿 Czech - Pre-Intermediate
 
 ----------------------------------------
 ### 🤝 Contact with Me
