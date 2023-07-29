@@ -36,7 +36,7 @@ E-mail: yatskivkathwork@gmail.com
 <br>
 Telegram: [@yatskivkath](https://t.me/yatskivkath)
 <br>
-Linked-in: [Katherine Yatskiv](https://www.linkedin.com/in/katherine-yatskiv-a1455617b/)
+Linked-in: [Kateryna Yatskiv](https://www.linkedin.com/in/katherine-yatskiv-a1455617b/)
 
 <!--
 **yatskivkath/yatskivkath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
