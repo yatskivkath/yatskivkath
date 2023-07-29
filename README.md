@@ -1,21 +1,17 @@
 ### 👋 Hi there, I'm Kateryna Yatskiv 
 -------------------------------------------------------------------
 ### :woman: About Me
-<p> Software developer with 1+ years of experience in creating and further maintenance of React/Vue apps. Integrating 3rd-parties APIs into no-code platforms. Have experience with Mobile Developing (React Native) and Full-Stack (Node.js, Express.js, MySQL). Skilled in database designing. Interested in Machie Learning and Computer Vision. Strongly motivated in learning new things and grow profesionaly.</p>
+<p> Software developer with 2 years of experience in creating and further maintenance of React/Vue apps. Integrating 3rd-parties APIs into no-code platforms. Have experience with Mobile Developing (React Native) and Full-Stack (Node.js, Express.js, MySQL). Skilled in database designing. Interested in Machie Learning and Data Science. Strongly motivated in learning new things and grow profesionaly.</p>
 
 ---------------------------------------------------------------------
 ### :computer: Tech Stack
 * HTML, CSS, JavaScript
-* React, Redux
-* React Native
-* Vue.js
-* MySQL, Cassandra
-* Node.js, Express.js
-* Python
-* OOP
-* Algorithms and Data Structures
-* Git
-* Trello, Jira, Slack
+* React.js, Vue.js
+* TypeScript
+* Next.js
+* REST, GraphQL
+* Git, GitLab
+* Trello, Jira, Slack, ClickUp
 * Figma, Photoshop
 -------------------------------------------------------------------------
 ### :mortar_board: Education
