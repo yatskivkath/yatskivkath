@@ -20,6 +20,7 @@
 -------------------------------------------------------------------------
 ### :mortar_board: Education
 [2018-09 - 2022-07] <b>National University of Kyiv-Mohyla Academy:</b> Bachelor's Degree in Computer Science
+<br>
 [2018-09 - 2022-07] <b>Ukrainian Catholic University:</b> Semester Academic Mobility, Faculty of Applied Science
 
 ----------------------------------------------------------------------------------------
